@@ -1,22 +1,93 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3527f866-3078-4c06-a88a-622bd397e5a8" name="Default Changelist" comment="" />
+    <list default="true" id="3527f866-3078-4c06-a88a-622bd397e5a8" name="Default Changelist" comment="Добавлено:&#10;1 движение пятнашек&#10;2 счет шагов&#10;Кто-нибудь сделайте gameOver(Т^Т)">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Board.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Board.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Game.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Square.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Timer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="PinkRabbit -Оля" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1UtPxmAI96D2x5pj4Nf6bQJgRrs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ChangesTree.GroupingKeys" value="" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="D:\Program Files\JetBrains\WebStorm 2019.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Глобальные сети\fiveteen\src\components\Tiles" />
+      <recent name="D:\Глобальные сети\fiveteen\src\components\App" />
+      <recent name="D:\Глобальные сети\fiveteen\src\components\Tile" />
+      <recent name="D:\Глобальные сети\fiveteen\src\components" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="Board.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/components/Board.js" working-dir="$PROJECT_DIR$/src/components">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.Board.js" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -40,8 +111,145 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1576173166705</updated>
-      <workItem from="1576173170495" duration="612000" />
+      <workItem from="1576173170495" duration="14945000" />
+      <workItem from="1576197058848" duration="651000" />
+      <workItem from="1576221808899" duration="18125000" />
+      <workItem from="1576246837906" duration="4410000" />
+      <workItem from="1577193076376" duration="25973000" />
+      <workItem from="1577228969051" duration="652000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Сделано генерация поля, никакого функцианала" />
+    <MESSAGE value="Добавлено:&#10;1 движение пятнашек&#10;2 счет шагов&#10;Кто-нибудь сделайте gameOver(Т^Т)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Добавлено:&#10;1 движение пятнашек&#10;2 счет шагов&#10;Кто-нибудь сделайте gameOver(Т^Т)" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="91" key="#Inspections" timestamp="1576186355166">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="0" y="91" key="#Inspections/0.0.1600.860@0.0.1600.860" timestamp="1576186355166" />
+    <state x="392" y="87" key="#Notifications" timestamp="1577229634419">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="392" y="87" key="#Notifications/0.0.1600.860@0.0.1600.860" timestamp="1577229634419" />
+    <state x="254" y="84" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576183980289">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="254" y="84" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.860@0.0.1600.860" timestamp="1576183980289" />
+    <state x="25" y="0" key="CommitChangelistDialog2" timestamp="1577229786938">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="25" y="0" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1577229786938" />
+    <state x="580" y="184" key="FileChooserDialogImpl" timestamp="1577211311945">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="580" y="184" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1577211311945" />
+    <state width="789" height="171" key="GridCell.Tab.0.bottom" timestamp="1577229725392">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="789" height="171" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1577229725392" />
+    <state width="789" height="171" key="GridCell.Tab.0.center" timestamp="1577229725391">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="789" height="171" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1577229725391" />
+    <state width="789" height="171" key="GridCell.Tab.0.left" timestamp="1577229725391">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="789" height="171" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1577229725391" />
+    <state width="789" height="171" key="GridCell.Tab.0.right" timestamp="1577229725391">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="789" height="171" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1577229725391" />
+    <state width="789" height="171" key="GridCell.Tab.1.bottom" timestamp="1577229725392">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="789" height="171" key="GridCell.Tab.1.bottom/0.0.1600.860@0.0.1600.860" timestamp="1577229725392" />
+    <state width="789" height="171" key="GridCell.Tab.1.center" timestamp="1577229725392">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="789" height="171" key="GridCell.Tab.1.center/0.0.1600.860@0.0.1600.860" timestamp="1577229725392" />
+    <state width="789" height="171" key="GridCell.Tab.1.left" timestamp="1577229725392">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="789" height="171" key="GridCell.Tab.1.left/0.0.1600.860@0.0.1600.860" timestamp="1577229725392" />
+    <state width="789" height="171" key="GridCell.Tab.1.right" timestamp="1577229725392">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="789" height="171" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1577229725392" />
+    <state width="789" height="171" key="GridCell.Tab.2.bottom" timestamp="1577229725392">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="789" height="171" key="GridCell.Tab.2.bottom/0.0.1600.860@0.0.1600.860" timestamp="1577229725392" />
+    <state width="789" height="171" key="GridCell.Tab.2.center" timestamp="1577229725392">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="789" height="171" key="GridCell.Tab.2.center/0.0.1600.860@0.0.1600.860" timestamp="1577229725392" />
+    <state width="789" height="171" key="GridCell.Tab.2.left" timestamp="1577229725392">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="789" height="171" key="GridCell.Tab.2.left/0.0.1600.860@0.0.1600.860" timestamp="1577229725392" />
+    <state width="789" height="171" key="GridCell.Tab.2.right" timestamp="1577229725392">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="789" height="171" key="GridCell.Tab.2.right/0.0.1600.860@0.0.1600.860" timestamp="1577229725392" />
+    <state width="789" height="171" key="GridCell.Tab.3.bottom" timestamp="1577229725393">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="789" height="171" key="GridCell.Tab.3.bottom/0.0.1600.860@0.0.1600.860" timestamp="1577229725393" />
+    <state width="789" height="171" key="GridCell.Tab.3.center" timestamp="1577229725392">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="789" height="171" key="GridCell.Tab.3.center/0.0.1600.860@0.0.1600.860" timestamp="1577229725392" />
+    <state width="789" height="171" key="GridCell.Tab.3.left" timestamp="1577229725392">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="789" height="171" key="GridCell.Tab.3.left/0.0.1600.860@0.0.1600.860" timestamp="1577229725392" />
+    <state width="789" height="171" key="GridCell.Tab.3.right" timestamp="1577229725393">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="789" height="171" key="GridCell.Tab.3.right/0.0.1600.860@0.0.1600.860" timestamp="1577229725393" />
+    <state x="0" y="165" key="Vcs.Push.Dialog.v2" timestamp="1577229717391">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="0" y="165" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1577229717391" />
+    <state x="92" y="92" width="1416" height="676" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1577229741133">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="92" y="92" width="1416" height="676" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1600.860@0.0.1600.860" timestamp="1577229741133" />
+    <state x="92" y="92" width="1416" height="676" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1577211521016">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="92" y="92" width="1416" height="676" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1600.860@0.0.1600.860" timestamp="1577211521016" />
+    <state x="362" y="165" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1577210572927">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="362" y="165" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1600.860@0.0.1600.860" timestamp="1577210572927" />
+    <state x="56" y="199" key="run.anything.popup" timestamp="1576339442797">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="56" y="199" key="run.anything.popup/0.0.1600.860@0.0.1600.860" timestamp="1576339442797" />
+    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup" timestamp="1576181543917">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup/0.0.1600.860@0.0.1600.860" timestamp="1576181543917" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="javascript">
+          <url>file://$PROJECT_DIR$/src/components/Tiles/Tiles.js</url>
+          <line>35</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint enabled="true" type="javascript-exception" />
+      </default-breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
