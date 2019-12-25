@@ -22,17 +22,19 @@ function shuffle(arr){
     }
     return arr;
 }
+
 class Board extends React.Component {
  constructor() {
      super();
 
 
      this.state = {
-        // Val:create(),
+        Val:create(),
         randomVal: shuffle(create()),
         step: 0,
         rowNull: 3,
         colNull: 3,
+         gameOver: false,
      };
    }
     handleClick(i) {
@@ -106,8 +108,10 @@ class Board extends React.Component {
     }
 
     render() {
-     if (this.state.randomVal=== create()){
-         alert("Игра занончилась на "+ this.state.step + "шаге" );
+     if (this.state.randomVal=== this.state.Val){
+         this.state.gameOver = true;
+        return  alert("Игра занончилась на "+ this.state.step + "шаге" );
+
      }
         return (
            <table className="table table-dark">

@@ -1,5 +1,6 @@
 import React from 'react';
 import Board from './Board';
+// import './Game.css';
 class Game extends React.Component {
     constructor() {
         super();
@@ -12,12 +13,15 @@ class Game extends React.Component {
         return (
             <div className="game">
                 {/*<button className="btn btn-primary">Game</button>*/}
+                <div className="game-info">
+                    <h3>Дзен - Пянташки от УТБ-41</h3>
+                    <div>
+                        Мы можте передвигать одну или несколько пятнашек на пустое место, нажав на нее
+                    </div>
+                    <ol>{/* TODO */}</ol>
+                </div>
                 <div className="game-board">
                     <Board />
-                </div>
-                <div className="game-info">
-                    <div>{/* status */}</div>
-                    <ol>{/* TODO */}</ol>
                 </div>
             </div>
         );
